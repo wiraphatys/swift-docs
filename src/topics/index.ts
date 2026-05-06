@@ -5,6 +5,7 @@ import variablesConstants from './swift/variables-constants'
 import basicTypes from './swift/basic-types'
 import controlFlow from './swift/control-flow'
 import collections from './swift/collections'
+import functionalMethods from './swift/functional-methods'
 import structs from './swift/structs'
 
 // Class 1 — Intro to SwiftUI
@@ -57,6 +58,7 @@ const swiftTopics: Topic[] = [
   basicTypes,
   controlFlow,
   collections,
+  functionalMethods,
   structs,
 ]
 
@@ -109,6 +111,7 @@ export const SWIFT_GROUPS: TopicGroup[] = [
       'basic-types',
       'control-flow',
       'collections',
+      'functional-methods',
       'structs',
     ],
   },
